@@ -7,6 +7,10 @@ To get the invite, just star any repo.
 
 You are welcome here even if you're not related to software :)
 
+## Joining
+
+Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/discussions/1). We'll send you the link to our Telegram chat. We can't just post the link publicly because of spam.
+
 ### TODO:
 - [ ] common links
 - [ ] projects list
