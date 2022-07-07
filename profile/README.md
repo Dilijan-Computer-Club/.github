@@ -14,7 +14,7 @@ Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/d
 ## Talks
 
 - [5 ways to improve keyboard layout (RUS)](https://m0rtyn.github.io/slides/5-ways-to-improve-keyboard-layout/index.html) by @m0rtyn
-- [Is Telegram creepy?](./talks/tg-creepy.pdf) by @schpongle
+- [Is Telegram creepy?](../talks/tg_creepy_talk_v1.pdf) by @schpongle
 
 ### TODO:
 - [ ] common links
