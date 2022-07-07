@@ -11,6 +11,11 @@ You are welcome here even if you're not related to software :)
 
 Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/discussions/1). We'll send you the link to our Telegram chat. We can't just post the link publicly because of spam.
 
+## Talks
+
+- [5 ways to improve keyboard layout (RUS)](https://m0rtyn.github.io/slides/5-ways-to-improve-keyboard-layout/index.html) by @m0rtyn
+- [Is Telegram creepy?](./talks/tg-creepy.pdf) by @schpongle
+
 ### TODO:
 - [ ] common links
 - [ ] projects list
