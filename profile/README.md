@@ -16,9 +16,26 @@ Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/d
 - [5 ways to improve keyboard layout (RUS)](https://m0rtyn.github.io/slides/5-ways-to-improve-keyboard-layout/index.html) by @m0rtyn
 - [Is Telegram creepy?](../talks/tg_creepy_talk_v1.pdf) by [@unmanbearpig](https://github.com/unmanbearpig) — a blog post is coming up
 
+## Meetups
+
+### DCC #1 (Jul 01, 2022)
+- @m0rtyn — [5 ways to improve keyboard layout (RUS)](https://m0rtyn.github.io/slides/5-ways-to-improve-keyboard-layout/index.html)
+- @unmanbearpig — [Is Telegram creepy?](../talks/tg_creepy_talk_v1.pdf)
+- (secret person) — (secret talk)
+After-party: The resistance tech. Customization paradigms.
+
+### DCC #2 (Jul 13, 2022)
+- @mvoloskov — The Worst Solution Possible
+- @unmanbearpig — Why do you need privacy
+- (secret person) — the resistance tech, activism empowerment.
+
+## Projects 
+
+- @unmanbearpig — [WIP] An app that allows you to upload files from any device to your computer more securely (over LAN) than over just HTTP It's a single binary, runs with a single command. Stores all data as files on disk.
+— @unmanbearpig — Workshop idea: blink an LED on a microcontroller from scratch with no dependencies: Either in C, asm or Rust, (or zig?). Another option is a more practical workshop with all the normal tools, just getting started with programming microcontrollers.
+- @unmanbearpig, @mvoloskov — Dilivery — the Telegram bot for asking people to buy stuff from Yerevan and bring it to Dilijan.
+
 ### TODO:
 - [ ] common links
 - [ ] projects list
-- [ ] meetups list
-- [ ] talks info
 - [ ] CONTRINUTION.md
