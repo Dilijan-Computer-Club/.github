@@ -22,7 +22,7 @@ Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/d
 
 After-party: The resistance tech. Customization paradigms.
 
-### [CFP OPEN] DCC #2 (Jul 13, 2022) 
+### [FUTURE] DCC #2 (Jul 13, 2022) 
 - [@mvoloskov](https://github.com/mvoloskov) — The Worst Solution Possible
 - [@unmanbearpig](https://github.com/unmanbearpig) — Why do you need privacy
 - (secret person) — the resistance tech, activism empowerment.
