@@ -22,6 +22,7 @@ Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/d
 - [@m0rtyn](https://github.com/m0rtyn) — [5 ways to improve keyboard layout (RUS)](https://m0rtyn.github.io/slides/5-ways-to-improve-keyboard-layout/index.html)
 - [@unmanbearpig](https://github.com/unmanbearpig) — [Is Telegram creepy?](../talks/tg_creepy_talk_v1.pdf)
 - (secret person) — (secret talk)
+
 After-party: The resistance tech. Customization paradigms.
 
 ### DCC #2 (Jul 13, 2022)
