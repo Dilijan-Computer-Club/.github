@@ -38,4 +38,4 @@ After-party: The resistance tech. Customization paradigms.
 ### TODO:
 - [ ] common links
 - [ ] projects list
-- [ ] CONTRINUTION.md
+- [ ] CONTRIBUTION.md
