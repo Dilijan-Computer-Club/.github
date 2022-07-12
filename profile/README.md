@@ -9,7 +9,7 @@ You are welcome here even if you're not related to software :)
 
 ## Joining
 
-Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/discussions/1). We'll send you the link to our Telegram chat. We can't just post the link publicly because of spam.
+Write a message in [#general](https://github.com/Dilijan-Computer-Club/.github/discussions/1). We'll send you the link to our Telegram chat. We don't post the link publicly.
 
 ## Talks
 
@@ -34,8 +34,3 @@ After-party: The resistance tech. Customization paradigms.
 - @unmanbearpig — [WIP] An app that allows you to upload files from any device to your computer more securely (over LAN) than over just HTTP It's a single binary, runs with a single command. Stores all data as files on disk.
 - @unmanbearpig — Workshop idea: blink an LED on a microcontroller from scratch with no dependencies: Either in C, asm or Rust, (or zig?). Another option is a more practical workshop with all the normal tools, just getting started with programming microcontrollers.
 - @unmanbearpig, @mvoloskov — Dilivery — the Telegram bot for asking people to buy stuff from Yerevan and bring it to Dilijan.
-
-### TODO:
-- [ ] common links
-- [ ] projects list
-- [ ] CONTRIBUTION.md
