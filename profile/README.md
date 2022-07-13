@@ -24,8 +24,7 @@ After-party: The resistance tech. Customization paradigms.
 
 ### DCC #2 (Jul 13, 2022) 
 - [@mvoloskov](https://github.com/mvoloskov) — [The Worst Solution Possible](https://github.com/mvoloskov/the-worst-solution-possible)
-- [@unmanbearpig](https://github.com/unmanbearpig) — Why do you need privacy
-- (secret person) — the resistance tech, activism empowerment.
+- [@unmanbearpig](https://github.com/unmanbearpig) — Why do you need privacy (teaser)
 
 ## Projects 
 
