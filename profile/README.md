@@ -26,6 +26,8 @@ After-party: The resistance tech. Customization paradigms.
 - [@mvoloskov](https://github.com/mvoloskov) — [The Worst Solution Possible](https://github.com/mvoloskov/the-worst-solution-possible)
 - [@unmanbearpig](https://github.com/unmanbearpig) — Why do you need privacy (teaser)
 
+After-party: The harm of business coaches and "I'm not ready yet" mindset, reading "[Stop Learning](https://miloslav.website/blog/2021/07/24/stop-learning/)".
+
 ## Projects 
 
 - [@unmanbearpig](https://github.com/unmanbearpig) — [WIP] An app that allows you to upload files from any device to your computer more securely (over LAN) than over just HTTP It's a single binary, runs with a single command. Stores all data as files on disk.
